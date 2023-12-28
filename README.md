@@ -10,8 +10,9 @@ The goal of the Personal Finance Dashboard project is to create a comprehensive 
 
 ## Data Understanding
 The primary data sources include my 2 years salary slips,bank statements,online transactions, and other financial records. These were chosen for their relevance to personal finance and their availability. 
+
 ## Screenshot of Visualization/Results
-![Alt text](<Personal Finance Dashboard_scrnsht.png>)
+![Personal Finance Dashboard_scrnsht](https://github.com/arjunnkk/PowerBi-projects/assets/135140689/05f3f7b5-9b7f-4ac3-b073-8b0edc2ae1f8)
 
 ## Technologies
 List of technologies used in the project:
